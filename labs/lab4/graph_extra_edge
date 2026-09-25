@@ -1,0 +1,11 @@
+digraph {
+	"Node A" [label=Start]
+	"Node B" [label=Process]
+	"Node C" [label=End]
+	"Node A" -> "Node B"
+	"Node B" -> "Node C"
+	"Node A" [label=Start fillcolor=green shape=circle style=filled]
+	"Node B" [label=Process color=black fillcolor=lightblue shape=box style=filled]
+	"Node C" [label=End shape=diamond]
+	"Node A" -> "Node C"
+}

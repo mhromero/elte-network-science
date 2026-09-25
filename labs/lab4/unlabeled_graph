@@ -1,0 +1,7 @@
+digraph {
+	"Node A"
+	"Node B"
+	"Node C"
+	"Node A" -> "Node B"
+	"Node B" -> "Node C"
+}

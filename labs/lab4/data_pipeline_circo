@@ -1,0 +1,13 @@
+digraph "Data Pipeline" {
+	1 [label="Collect Data"]
+	2 [label="Clean Data"]
+	3 [label="Train Model"]
+	4 [label=Evaluate]
+	5 [label=Deploy]
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	4 -> 2
+	3 [label="Train Model" color=black fillcolor=yellow shape=box style=filled]
+}

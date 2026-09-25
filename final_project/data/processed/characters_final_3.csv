@@ -1,0 +1,741 @@
+Unnamed: 0,full_name,categories,name
+0.0,Hannah Abbot,"['Hufflepuff', 'Dumbledore’s Army']",Hannah
+1.0,Euan Abercrombie,['Gryffindor'],Euan
+2.0,Steward Ackerley,['Ravenclaw'],Steward
+3.0,Falcon Aesalon,['Chocolate Frog Card'],Falcon
+4.0,Agnes,[],Agnes
+5.0,Cornelius Agrippa,['Chocolate Frog Card'],Cornelius Agrippa
+6.0,Archibald Alderton,['Chocolate Frog Card'],Archibald
+7.0,Alguf the Awful,[],Alguf
+8.0,Alphard,[],Alphard
+9.0,Archie,[],Archie
+10.0,Aragog,[],Aragog
+11.0,Arnold,[],Arnold
+12.0,Bertram Aubrey,[],Bertram
+13.0,Avery,['Death Eater'],Avery
+14.0,Babayaga,['Chocolate Frog Card'],Babayaga
+15.0,Malcolm Baddock,['Slytherin'],Malcolm Baddock
+16.0,Ludo Bagman,"['Ministry of Magic', 'Quidditch Player']",Ludo
+17.0,Otto Bagman,[],Otto
+18.0,Bagman,[],Bagman
+19.0,Millicent Bagnold,['Ministry of Magic'],Millicent Bagnold
+20.0,Bathilda Bagshot,[],Bathilda
+21.0,Bandon Banshee,[],Bandon
+22.0,Bane,[],Bane
+23.0,Heathcote Barbary,['Chocolate Frog Card'],Heathcote
+24.0,Barker,['Quidditch Player'],Barker
+25.0,Musidora Barkwith,['Chocolate Frog Card'],Musidora
+26.0,Barnabas the Barmy,['Chocolate Frog Card'],Barnabas
+27.0,Barny,['Quidditch Player'],Barny
+28.0,Barrufio,[],Barrufio
+29.0,Ali Bashir,[],Ali
+30.0,Basil,['Ministry of Magic'],Basil
+31.0,Hetty Bayliss,[],Hetty
+32.0,Oswald Beamish,['Chocolate Frog Card'],Oswald
+33.0,Beedle the Bard,[],Beedle
+34.0,Flavius Belby,['Chocolate Frog Card'],Flavius
+35.0,Marcus Belby,['Slug Club'],Marcus Belby
+36.0,Humphrey Belcher,[],Humphrey
+37.0,Katie Bell,"['Gryffindor', 'Dumbledore’s Army', 'Quidditch Player']",Katie
+38.0,Amy Benson,[],Amy
+39.0,Billy,[],Billy
+40.0,Binky,[],Binky
+41.0,Binns,['Hogwarts Staff'],Binns
+42.0,Dennis Bishop,[],Dennis Bishop
+43.0,Andromeda Black,['Related to the Blacks'],Andromeda Black
+44.0,Araminta Meliflua Black,['Related to the Blacks'],Araminta Meliflua Black
+45.0,Bellatrix Lestrange Black,"['Slytherin', 'Death Eater', 'Related to the Blacks']",Bellatrix Lestrange Black
+46.0,Aunt Elladora Black,"['Slytherin', 'Related to the Blacks']",Aunt Elladora
+47.0,Narcissa Black,"['Slytherin', 'Death Eater', 'Related to the Blacks']",Narcissa
+48.0,Regulus Black,"['Slytherin', 'Death Eater', 'Related to the Blacks']",Regulus
+49.0,Sirius Black,"['Gryffindor', 'Order of the Phoenix', 'Related to the Blacks']",Sirius
+50.0,Uncle Alfred Black,['Related to the Blacks'],Uncle Alfred Black
+51.0,Balfour Blane,['Chocolate Frog Card'],Balfour
+52.0,Miles Bletchley,"['Slytherin', 'Quidditch Player']",Miles
+53.0,Bloody Barron,['Slytherin'],Bloody Baron
+54.0,Blott. s,[],Blott
+55.0,Beatrix Bloxam,['Chocolate Frog Card'],Beatrix
+56.0,Blodwyn Bludd,['Chocolate Frog Card'],Blodwyn
+57.0,Stubby Boardman,[],Stubby
+58.0,Bob,['Ministry of Magic'],Bob
+59.0,Broderick Bode,['Ministry of Magic'],Broderick
+60.0,Bole,"['Slytherin', 'Quidditch Player']",Bole
+61.0,Pierre Bonnacord,['Ministry of Magic'],Pierre
+62.0,Amelia Bones,['Ministry of Magic'],Amelia
+63.0,Edgar Bones,['Order of the Phoenix'],Edgar Bones
+64.0,Bones,[],Bones
+65.0,Susan Bones,"['Hufflepuff', 'Dumbledore’s Army']",Susan
+66.0,Mungo Bonham,[],Mungo
+67.0,Terry Boot,"['Ravenclaw', 'Dumbledore’s Army']",Terry
+68.0,Gladys Boothby,['Quidditch Player'],Gladys Boothby
+69.0,Libatius Borage,[],Libatius
+70.0,Borgin,[],Borgin
+71.0,Bertie Bott,['Chocolate Frog Card'],Bertie Bott
+72.0,Bozo,[],Bozo
+73.0,Bradley,['Ravenclaw'],Bradley
+74.0,Barberus Bragge,"['Chocolate Frog Card', 'Quidditch Player']",Barberus
+75.0,Rudolph Brand,['Quidditch Player'],Rudolph
+76.0,Maximus Brankovitch III,['Quidditch Player'],Maximus
+77.0,Eleanor Branstone,['Hufflepuff'],Eleanor
+78.0,Kevin Broadmoor,['Quidditch Player'],Kevin
+79.0,Mandy Brocklehurst,['Ravenclaw'],Mandy
+80.0,"Rupert, Axebanger Brook Stanton",[],Rupert
+81.0,Lavender Brown,"['Gryffindor', 'Dumbledore’s Army']",Lavender
+82.0,Frank Bryce,[],Frank Bryce
+83.0,Buckbeak,[],Buckbeak
+84.0,Millicent Bulstrode,"['Slytherin', 'Quidditch Player']",Millicent Bulstrode
+85.0,K. Bunky,['Quidditch Player'],K. Bunky
+86.0,Rosalind Antigone Bungs,['Hogwarts Staff'],Rosalind
+87.0,Caractucus Burke,[],Caractucus
+88.0,Sir Cadogan,[],Sir Cadogan
+89.0,Cadwallader,['Hufflepuff'],Cadwallader
+90.0,S. Capper,['Quidditch Player'],S. Capper
+91.0,Eddie Carmichel,['Ravenclaw'],Eddie
+92.0,Alecto Carrow,['Death Eater'],Alecto
+93.0,Amycus Carrow,['Death Eater'],Amycus
+94.0,Greta Catchlove,['Chocolate Frog Card'],Greta
+95.0,Owens Cauldwell,['Hufflepuff'],Owens
+96.0,Chambers,"['Ravenclaw', 'Quidditch Player']",Chambers
+97.0,Cho Chang,"['Ravenclaw', 'Dumbledore’s Army', 'Quidditch Player']",Cho
+98.0,Glenda Chittock,['Chocolate Frog Card'],Glenda
+99.0,Agatha Chubb,"['Chocolate Frog Card', 'Quidditch Player']",Agatha Chubb
+100.0,Circe,['Chocolate Frog Card'],Circe
+101.0,Elfrinda Clagg,"['Chocolate Frog Card', 'Ministry of Magic', 'Quidditch Player']",Elfrinda Clagg
+102.0,Penelope Clearwater,['Ravenclaw'],Penelope
+103.0,Cliodna,['Chocolate Frog Card'],Cliodna
+104.0,Edgar Clogg,['Quidditch Player'],Edgar Clogg
+105.0,Cole,[],Cole
+106.0,Connolly,['Quidditch Player'],Connolly
+107.0,Ritchie Coote,"['Gryffindor', 'Quidditch Player']",Ritchie
+108.0,Michael Corner,"['Ravenclaw', 'Dumbledore’s Army']",Michael
+109.0,Crabbe,['Death Eater'],Crabbe
+110.0,Vincent Crabbe,"['Slytherin', 'Quidditch Player']",Vincent
+111.0,Elfrinda Cragg,[],Elfrinda Cragg
+112.0,Crapaud,[],Crapaud
+113.0,Colin Creevy,"['Gryffindor', 'Dumbledore’s Army']",Colin
+114.0,Dennis Creevy,"['Gryffindor', 'Dumbledore’s Army']",Dennis Creevy
+115.0,Dirk Cresswell,"['Ministry of Magic', 'Slug Club']",Dirk
+116.0,Croaker,['Ministry of Magic'],Croaker
+117.0,Doris Crockford,[],Doris Crockford
+118.0,Crispin Cronk,['Chocolate Frog Card'],Crispin
+119.0,Crookshanks,[],Crookshanks
+120.0,Barty Sr. Crouch,['Ministry of Magic'],Barty Sr.
+121.0,Barty Jr. Crouch,['Death Eater'],Barty Jr.
+122.0,Crouch,[],Crouch
+123.0,Gideon Crumb,['Chocolate Frog Card'],Gideon Crumb
+124.0,Barabas Cuffe,"['Ministry of Magic', 'Slug Club']",Barabas
+125.0,Gerta Curd,['Chocolate Frog Card'],Gerta
+126.0,Damocles,[],Damocles
+127.0,Roger Davies,"['Ravenclaw', 'Quidditch Player']",Roger
+128.0,Tracy cDavis,['Slytherin'],Tracy
+129.0,Dawlish,['Ministry of Magic'],Dawlish
+130.0,Caradoc Dearborn,['Order of the Phoenix'],Caradoc
+131.0,Apolline Delacour,[],Apolline
+132.0,Fleur Delacour,['Related to the Blacks'],Fleur Delacour
+133.0,Gabrielle Delacour,[],Gabrielle
+134.0,Monsieur Delacour,[],Monsieur Delacour
+135.0,Patrick Delaney- Podmore,[],Patrick
+136.0,Laverne de Montmorency,['Chocolate Frog Card'],Laverne
+137.0,Dennis,[],Dennis
+138.0,Derek,[],Derek
+139.0,Derrick,"['Slytherin', 'Quidditch Player']",Derrick
+140.0,Dilys Derwent,['Hogwarts Staff'],Dilys
+141.0,Philbert Deverill,['Quidditch Player'],Philbert
+142.0,Diddy,[],Diddy
+143.0,Dedalus Diggle,['Order of the Phoenix'],Dedalus
+144.0,Amos Diggory,['Ministry of Magic'],Amos
+145.0,Cedric Diggory,"['Hufflepuff', 'Quidditch Player']",Cedric
+146.0,Diggory,[],Diggory
+147.0,Dimitrox,['Quidditch Player'],Dimitrox
+148.0,Harold Dingle,[],Harold Dingle
+149.0,Dinky Diddydums,[],Dinky
+150.0,Armando Dippet,"['Hogwarts Staff', 'Chocolate Frog Card']",Armando
+151.0,Emma Dobbs,['Hufflepuff'],Emma
+152.0,Daisy Dodderidge,['Chocolate Frog Card'],Daisy Dodderidge
+153.0,Elphias Doge,['Order of the Phoenix'],Elphias
+154.0,Antonin Dolohov,['Death Eater'],Antonin
+155.0,Ragmar Dorkins,['Quidditch Player'],Ragmar
+156.0,J. Dorny,['Quidditch Player'],J. Dorny
+157.0,Dudders,[],Dudders
+158.0,Kirley Duke,['Chocolate Frog Card'],Kirley Duke
+159.0,Alberforth Dumbeldore,['Order of the Phoenix'],Alberforth
+160.0,Albus Dumbledore,"['Gryffindor', 'Hogwarts Staff', 'Chocolate Frog Card', 'Order of the Phoenix']",Dumbledore
+161.0,Ariana Dumbledore,[],Ariana
+162.0,Kendra Dumbledore,[],Kendra
+163.0,Dumbledore Percival,[],Percival
+164.0,B Dunstan,['Quidditch Player'],B Dunstan
+165.0,Dudley Dursley,[],Dudley
+166.0,"Marjorie, Marge Dursley",[],Marge
+167.0,Petunia Dursley,[],Petunia Dursley
+168.0,Vernon Dursley,[],Vernon
+169.0,Dzou Yen,['Chocolate Frog Card'],Dzou
+170.0,Eargit the Awful,[],Eargit
+171.0,Marietta Edgecombe,"['Ravenclaw', 'Dumbledore’s Army']",Marietta
+172.0,Madam Edgecombe,['Ministry of Magic'],Madam Edgecombe
+173.0,Egbert the Egregious,[],Egbert
+174.0,Mordicus Egg,[],Mordicus
+175.0,Elfric the Eager,[],Elfric
+176.0,Elladora,['Related to the Blacks'],Elladora
+177.0,Ellerby,[],Ellerby
+178.0,Wilfred Elphick,['Chocolate Frog Card'],Wilfred Elphick
+179.0,Emeric the Evil,[],Emeric the Evil
+180.0,Ethelred the Ever-Ready,['Chocolate Frog Card'],Ethelred
+181.0,Errol,[],Errol
+182.0,Lily Evans,"['Gryffindor', 'Order of the Phoenix']",Lily Evans
+183.0,Petunia Evans,[],Petunia Evans
+184.0,Mark Evans,[],Mark
+185.0,Everard,['Hogwarts Staff'],Everard
+186.0,Perpetua Fancourt,['Chocolate Frog Card'],Perpetua
+187.0,Fang,[],Fang
+188.0,Fat Friar,['Hufflepuff'],Fat Friar
+189.0,Fat Lady,['Gryffindor'],Fat Lady
+190.0,Fawcetts,[],Fawcetts
+191.0,S. Fawcett,['Ravenclaw'],S. Fawcett
+192.0,Fawkes,[],Fawkes
+193.0,Benji Fenwick,['Order of the Phoenix'],Benji
+194.0,Fergus,[],Fergus
+195.0,Arabella Doreen Figg,['Order of the Phoenix'],Arabella
+196.0,Argus Filtch,['Hogwarts Staff'],Argus
+197.0,Justin Finch-Fletchley,"['Hufflepuff', 'Dumbledore’s Army']",Justin
+198.0,Fingal the Fearless,['Quidditch Player'],Fingal
+199.0,Finnigan,[],Finnigan
+200.0,Seamus Finnigan,"['Gryffindor', 'Dumbledore’s Army']",Seamus
+201.0,Firenze,[],Firenze
+202.0,Nicholas Flamel,[],Nicholas
+203.0,Perenelle Flamel,[],Perenelle
+204.0,Angus Fleet,[],Angus
+205.0,Mudungus Fletcher,['Order of the Phoenix'],Mudungus
+206.0,Marcus Flint,"['Slytherin', 'Quidditch Player']",Marcus Flint
+207.0,Filius Flitwick,"['Ravenclaw', 'Hogwarts Staff']",Filius
+208.0,Florence,[],Florence
+211.0,Fluffy,[],Fluffy
+212.0,Ambrosius Flume,[],Ambrosius
+213.0,Flyte,[],Flyte
+214.0,Florean Fortescue,[],Florean
+215.0,Fridwulfa,[],Fridwulfa
+216.0,Vicky Frobisher,['Gryffindor'],Vicky
+217.0,Colonel Fubster,[],Colonel
+218.0,Cornelius Fudge,['Ministry of Magic'],Cornelius Fudge
+219.0,Fulbert the Fearful,['Chocolate Frog Card'],Fulbert
+220.0,Dymphna Furmage,['Chocolate Frog Card'],Dymphna
+221.0,Marvolo Gaunt,['Slytherin'],Marvolo
+222.0,Merope Gaunt,['Slytherin'],Merope
+223.0,Morfin Gaunt,['Slytherin'],Morfin
+224.0,Guant Tom Marvolo,"['Slytherin', 'Death Eater']",Guant
+225.0,of the Weasleys Ghoul,[],Ghoul
+226.0,of Hogwarts Giant Squid,[],Giant Squid
+227.0,Anthony Goldstein,"['Ravenclaw', 'Dumbledore’s Army']",Anthony
+228.0,Golgomath,[],Golgomath
+229.0,Golpalott,[],Golpalott
+230.0,Gordon,[],Gordon
+231.0,Miranda Goshawk,['Chocolate Frog Card'],Miranda
+232.0,Goyle,['Death Eater'],Goyle
+233.0,Gregory Goyle,"['Slytherin', 'Quidditch Player', 'Gryffindor', 'Dumbledore’s Army', 'Slug Club']",Gregory Goyle
+234.0,Merton Graves,['Chocolate Frog Card'],Merton
+235.0,Grawp,['Slytherin'],Grawp
+236.0,Gregorovitch,[],Gregorovitch
+237.0,Gregory the Smarmy,['Chocolate Frog Card'],Gregory the Smarmy
+238.0,Grenouille,[],Grenouille
+239.0,Helena Ravenclaw Grey Lady,['Ravenclaw'],Helena
+240.0,Fenrir Greyback,['Death Eater'],Fenrir
+241.0,Glynnis Griffiths,['Quidditch Player'],Glynnis
+242.0,Elias Grimstone,['Quidditch Player'],Elias
+243.0,Gelert Grindelwald,[],Gelert
+244.0,Gringott,[],Gringott
+245.0,Griphook,[],Griphook
+246.0,Professor Grubbly-Plank,['Hogwarts Staff'],Professor Grubbly-Plank
+247.0,Alberic Grunnion,['Chocolate Frog Card'],Alberic
+248.0,Godric Gryffindor,"['Gryffindor', 'Hogwarts Staff', 'Chocolate Frog Card']",Godric
+249.0,Malodora Grymm,['Chocolate Frog Card'],Malodora
+250.0,Platform Guard,[],Platform
+251.0,Davey Gudgeon,[],Davey
+252.0,Galvin Gudgeon,['Quidditch Player'],Galvin
+253.0,Gladys Gudgeon,[],Gladys Gudgeon
+254.0,Gunhilda of Gorsemoor,['Chocolate Frog Card'],Gunhilda of
+255.0,Gunhilda,[],Gunhilda
+256.0,Gwenog,['Quidditch Player'],Gwenog
+257.0,Rubeus Hagrid,"['Gryffindor', 'Hogwarts Staff', 'Order of the Phoenix']",Rubeus
+258.0,Hagrid,[],Hagrid
+259.0,Ciceron Harkiss,[],Ciceron
+260.0,Harper,"['Slytherin', 'Quidditch Player']",Harper
+261.0,Warty Harris,[],Warty
+262.0,Hedwig,[],Hedwig
+263.0,Hedwig the owl,[],Hedwig the owl
+264.0,Hengist of Woodcroft,['Chocolate Frog Card'],Hengist of Woodcroft
+265.0,Hengist of Upper Barnton,['Chocolate Frog Card'],Hengist of Upper
+266.0,Hermes,[],Hermes
+267.0,Hermy,[],Hermy
+268.0,Herpo the Foul,['Chocolate Frog Card'],Herpo
+269.0,Bertie Higgs,['Slug Club'],Bertie Higgs
+270.0,Terrence Higgs,"['Slytherin', 'Quidditch Player']",Terrence
+271.0,Glover Hipworth,['Chocolate Frog Card'],Glover
+272.0,Hokey,[],Hokey
+273.0,Rolanda Hooch,"['Hogwarts Staff', 'Quidditch Player']",Rolanda
+274.0,Geoffrey Hooper,"['Gryffindor', 'Quidditch Player']",Geoffrey
+275.0,Malfalda Hopkirk,['Ministry of Magic'],Malfalda
+276.0,Hoppy,[],Hoppy
+277.0,Olive Hornby,[],Olive
+278.0,Hornby,[],Hornby
+279.0,Basil Horton,['Quidditch Player'],Basil Horton
+280.0,Old Mother Hubbard,['Chocolate Frog Card'],Old Mother Hubbard
+281.0,Helga Hufflepuff,"['Hufflepuff', 'Hogwarts Staff', 'Chocolate Frog Card']",Helga
+282.0,Humongous Bighead,[],Humongous
+283.0,Ickle Diddykins,[],Ickle
+284.0,Inigo Imago,[],Inigo
+285.0,Ingolfr the Iambic,['Quidditch Player'],Ingolfr
+286.0,Ivanova,['Quidditch Player'],Ivanova
+287.0,Joey Jenkins,['quidditch'],Joey
+288.0,Leonard Jewkes,['quidditch'],Leonard
+289.0,Arsenius Jigger,[],Arsenius
+290.0,Angelina Johnson,"['quidditch', 'Dumbledore’s Army', 'Gryffindor']",Angelina
+291.0,Gwenog Jones,"['Chocolate Frog Card', 'quidditch']",Gwenog Jones
+292.0,Hestia Jones,['Order of the Phoenix'],Hestia
+293.0,Lee Jordan,"['Dumbledore’s Army', 'Gryffindor']",Lee
+294.0,Bertha Jorkins,['Ministry of Magic'],Bertha
+295.0,Jugson,['Death Eater'],Jugson
+296.0,Igor Karkaroff,['Death Eater'],Igor
+297.0,Karkus,[],Karkus
+298.0,Gertie Keddle,['quidditch'],Gertie
+299.0,Roland Kegg,['Chocolate Frog Card'],Roland
+300.0,Randolph Keitch,['quidditch'],Randolph
+301.0,Professor Kettleburn,['Hogwarts Staff'],Professor Kettleburn
+302.0,Elladora Ketteridge,[],Elladora Ketteridge
+303.0,Kevin,[],Kevin
+304.0,Kevin’s mother,[],Kevin’s mother
+305.0,R.J.H. King,"['quidditch', 'Gryffindor']",R.J.H. King
+306.0,Andrew Kirke,"['quidditch', 'Gryffindor']",Andrew
+307.0,Goodwin Kneen,['quidditch'],Goodwin
+308.0,Gunhilda Kneen,['quidditch'],Gunhilda Kneen
+309.0,Montague Knightley,['Chocolate Frog Card'],Montague Knightley
+310.0,Kreacher,[],Kreacher
+311.0,Krum,[],Krum
+312.0,Victor Krum,['quidditch'],Victor
+313.0,Lachlan the Lanky,[],Lachlan
+314.0,Landlady of the Green Dragon,[],Landlady
+315.0,Leanne,[],Leanne
+316.0,Morgan le Fey,['Chocolate Frog Card'],Morgan
+317.0,Amarillo Lestoat,['Chocolate Frog Card'],Amarillo
+318.0,Bellatrix Lestrange,"['Slytherin', 'Death Eater']",Bellatrix Lestrange
+319.0,Rabastan Lestrange,"['Slytherin', 'Death Eater']",Rabastan
+320.0,Rodolphus Lestrange,"['Slytherin', 'Death Eater']",Rodolphus
+321.0,Levski,['quidditch'],Levski
+322.0,Su Li,['Ravenclaw'],Su
+323.0,Dai Llewellyn,['quidditch'],Dai
+324.0,Guthrie Lochrin,['quidditch'],Guthrie
+325.0,Gilderoy Lockhart,['Hogwarts Staff'],Gilderoy
+326.0,Algie Longbottom,[],Algie
+327.0,Alice Longbottom,['Order of the Phoenix'],Alice
+328.0,Augusta Longbottom,[],Augusta
+329.0,Ernid Longbottom,[],Ernid
+330.0,Frank Longbottom,['Order of the Phoenix'],Frank Longbottom
+331.0,Neville Longbottom,"['Dumbledore’s Army', 'gryff']",Neville
+332.0,Lovegood,[],Lovegood
+333.0,Luna Lovegood,"['Dumbledore’s Army', 'Ravenclaw']",Luna
+334.0,Xenophilius Lovegood,[],Xenophilius
+335.0,Loopy Lupin Loony,[],Loopy
+336.0,Artemisia Lufkin,"['Chocolate Frog Card', 'Ministry of Magic']",Artemisia
+337.0,Dora Nymphadora Tonks Lupin,[],Dora
+338.0,Remus J. Lupin,"['Order of the Phoenix', 'Hogwarts Staff', 'Gryffindor']",Remus
+339.0,Teddy Ted Remus Lupid,[],Teddy
+340.0,Aidan Lynch,['quidditch'],Aidan
+341.0,Magnus Macdonald,['quidditch'],Magnus
+342.0,Morag MacDougal,[],Morag
+343.0,Hamish MacFarlan,"['Ministry of Magic', 'quidditch']",Hamish
+344.0,MacFusty,[],MacFusty
+345.0,Ernie Macmillan,"['hufflepuff', 'Dumbledore’s Army']",Ernie Macmillan
+346.0,Walden Macnair,"['Death Eater', 'Ministry of Magic']",Walden
+347.0,Alasdair Maddock,['quidditch'],Alasdair
+348.0,Laura Madley,['hufflepuff'],Laura
+349.0,Queen Maeve,['Chocolate Frog Card'],Queen
+350.0,Magorian,[],Magorian
+351.0,Malcolm,[],Malcolm
+352.0,Abraxas Malfoy,[],Abraxas
+353.0,Draco,"['quidditch', 'Slytherin', 'Related to the Blacks', 'Death Eater']",Draco
+354.0,Lucius Malfoy,"['Slytherin', 'Related to the Blacks', 'Death Eater']",Lucius
+355.0,"Malfoy, Narcissa Black","['Slytherin', 'Related to the Blacks', 'Death Eater']",Narcissa
+356.0,Scorpius Malfoy,[],Scorpius
+357.0,Malecrit,[],Malecrit
+358.0,Malkin,[],Malkin
+359.0,Mangorian,['Chocolate Frog Card'],Mangorian
+360.0,Griselda Marchbanks,['Ministry of Magic'],Griselda
+361.0,Beaumont Marjoribanks,[],Beaumont
+362.0,Marsh,[],Marsh
+363.0,Mason,[],Mason
+364.0,Olympe Maxime,[],Olympe
+365.0,Mauler,[],Mauler
+366.0,McClivert,[],McClivert
+367.0,Dugald McClivert,[],Dugald
+368.0,Catriona McCormack,['quidditch'],Catriona
+369.0,Kirley McCormack,['Chocolate Frog Card'],Kirley McCormack
+370.0,Meghan McCormack,['quidditch'],Meghan
+371.0,Natalie McDonald,['Gryffindor'],Natalie
+372.0,Minerva McGonagall,"['Hogwarts Staff', 'Order of the Phoenix', 'Gryffindor']",Minerva
+373.0,M. G. McGonagall,"['quidditch', 'Gryffindor']",M. G. McGonagall
+374.0,Marlene McKinnon,['Order of the Phoenix'],Marlene
+375.0,Cormac McLaggen,"['Gryffindor', 'quidditch', 'slug club']",Cormac
+376.0,Tibirius McLaggen,[],Tibirius
+377.0,Dorcas Meadows,['Order of the Phoenix'],Dorcas Meadows
+378.0,Araminta Meliflua,['Related to the Blacks'],Araminta Meliflua
+379.0,Merlin,['Chocolate Frog Card'],Merlin
+380.0,Galatea Merrythought,[],Galatea
+381.0,Merwyn the Malicious,['Chocolate Frog Card'],Merwyn
+382.0,Eloise Midget,[],Eloise
+383.0,Milly,[],Milly
+384.0,Sir Nicholas de Mimsy-Porpington,['Gryffindor'],Sir Nicholas de Mimsy-Porpington
+385.0,Cordelia Misericordia,['Chocolate Frog Card'],Cordelia
+386.0,Moaning Myrtle,['Ravenclaw'],Moaning
+387.0,Cuthbert Mockridge,['Ministry of Magic'],Cuthbert
+388.0,Montague,"['quidditch', 'Slytherin']",Montague
+389.0,Montgomery,[],Montgomery
+390.0,Mad Moody Alastor,"['Order of the Phoenix', 'Hogwarts Staff', 'Ministry of Magic']",Mad
+392.0,Moony,"['Order of the Phoenix', 'Hogwarts Staff', 'Gryffindor']",Moony
+393.0,Bodmin Moor,['quidditch'],Bodmin
+394.0,Mopsus,['Chocolate Frog Card'],Mopsus
+395.0,Moran,['quidditch'],Moran
+396.0,Gwendolyn Morgan,['quidditch'],Gwendolyn
+397.0,Morgana,['Chocolate Frog Card'],Morgana
+398.0,Morholt,['Chocolate Frog Card'],Morholt
+399.0,Mortlake,[],Mortlake
+400.0,Mosag,[],Mosag
+401.0,Hassan Mostafa,['quidditch'],Hassan
+402.0,Mr. Paws,[],Mr. Paws
+403.0,Mulciber,['Death Eater'],Mulciber
+404.0,Burdock Muldoon,"['Chocolate Frog Card', 'Ministry of Magic']",Burdock
+405.0,Mullet,['quidditch'],Mullet
+406.0,Zacharias Mumps,['quidditch'],Zacharias Mumps
+407.0,Eric Munch,['Ministry of Magic'],Eric
+408.0,Aunt Muriel,[],Aunt Muriel
+409.0,Murcus,[],Murcus
+410.0,Eunice Murray,['quidditch'],Eunice
+411.0,Myrtle,['Ravenclaw'],Myrtle
+412.0,Nagini,[],Nagini
+413.0,Nearly Headless Nick,['Gryffindor'],Nearly Headless Nick
+414.0,Madam Z Nettles,[],Madam Z
+415.0,Phineas,"['Hogwarts Staff', 'Slytherin', 'Related to the Blacks']",Phineas
+416.0,Norbert,[],Norbert
+417.0,Mrs. Norris,[],Mrs. Norris
+418.0,Nott,['Death Eater'],Nott
+419.0,Theodore,['Slytherin'],Theodore
+420.0,Honoria Nutcombe,['Chocolate Frog Card'],Honoria
+421.0,Oblansk,['Ministry of Magic'],Oblansk
+422.0,Odo,[],Odo
+423.0,Bob Ogden,['Ministry of Magic'],Bob Ogden
+424.0,Tiberius Ogden,['Ministry of Magic'],Tiberius Ogden
+425.0,Ogg,['Hogwarts Staff'],Ogg
+426.0,Dunbar Oglethorpe,"['quidditch', 'Chocolate Frog Card']",Dunbar
+427.0,Darren O’Hare,['quidditch'],Darren
+428.0,Olaf,['quidditch'],Olaf
+429.0,Chauncey Oldridge,['Chocolate Frog Card'],Chauncey
+430.0,Gondoline Oliphant,['Chocolate Frog Card'],Gondoline
+431.0,Barnaby Ollerton,[],Barnaby
+432.0,Bill Ollerton,[],Bill Ollerton
+433.0,Bob Ollerton,[],Bob Ollerton
+434.0,Gifford Ollerton,['Chocolate Frog Card'],Gifford
+435.0,Ollivander,[],Ollivander
+436.0,Oona,['quidditch'],Oona
+437.0,Padfoot,[],Padfoot
+438.0,Paracelsus,['Ministry of Magic'],Paracelsus
+439.0,Walter Parkin,['quidditch'],Walter
+440.0,Pansy Parkinson,['Slytherin'],Pansy
+441.0,Padma Patil,"['Dumbledore’s Army', 'Ravenclaw']",Padma
+442.0,Pavarti Patil,"['Gryffindor', 'Dumbledore’s Army']",Pavarti
+443.0,Payne,[],Payne
+444.0,Glanmore Peakes,['Chocolate Frog Card'],Glanmore
+445.0,Jimmy,"['quidditch', 'Gryffindor']",Jimmy
+446.0,Abraham Peasegood,['quidditch'],Abraham
+447.0,Arnold Peasegood,['Ministry of Magic'],Arnold Peasegood
+448.0,Peeves,[],Peeves
+449.0,Penfriend,[],Penfriend
+450.0,Daisy Pennifold,['quidditch'],Daisy Pennifold
+451.0,Pennyfeather,[],Pennyfeather
+452.0,Octavius Pepper,[],Octavius
+453.0,Perkins,['Ministry of Magic'],Perkins
+454.0,Sally-Ann Perks,[],Sally-Ann
+455.0,Peter Pettigrew,"['Gryffindor', 'Death Eater']",Peter
+456.0,Peverell,[],Peverell
+457.0,"Antioch, Cadmus and Ignotus Peverell",[],"Antioch,"
+458.0,Arkie Philpott,[],Arkie
+460.0,Pigwidgeon,[],Pigwidgeon
+461.0,Justus Pilliwickle,"['Chocolate Frog Card', 'Ministry of Magic']",Justus
+462.0,Madam Irma Pince,['Hogwarts Staff'],Madam Irma
+463.0,Carlotta Pinkstone,['Chocolate Frog Card'],Carlotta
+464.0,Randolphus Pittiman,[],Randolphus
+465.0,Yardley Platt,['Chocolate Frog Card'],Yardley
+466.0,Roderick Plumpton,"['Chocolate Frog Card', 'quidditch']",Roderick
+467.0,Mirabella Plunkett,['Chocolate Frog Card'],Mirabella
+468.0,Sir Patrick Delaney Podmore,[],Sir Patrick
+469.0,Sturgis Podmore,['Order of the Phoenix'],Sturgis
+470.0,Gulliver Pokeby,['Chocolate Frog Card'],Gulliver
+471.0,Poliakoff,[],Poliakoff
+472.0,Piers Polkiss,[],Piers
+473.0,Poppy Pomfrey,['Hogwarts Staff'],Poppy
+474.0,Roddy Pontner,['quidditch'],Roddy Pontner
+475.0,Sir Nicholas de Mimsey Porpington,['Gryffindor'],Sir Nicholas de Mimsey
+476.0,Albus Severus Potter,[],Albus Severus
+477.0,Harry James Potter,"['quidditch', 'Gryffindor', 'slug club', 'Related to the Blacks', 'Dumbledore’s Army', 'Chocolate Frog Card']",Harry
+478.0,James Sirius Potter,[],James Sirius
+479.0,James Potter,"['quidditch', 'Gryffindor', 'Order of the Phoenix']",James Potter
+480.0,Lily Potter,[],Lily Potter
+481.0,Nugent Potts,['quidditch'],Nugent
+482.0,Ernie Prang,[],Ernie Prang
+483.0,Fabian Prewett,['Order of the Phoenix'],Fabian
+484.0,Gideon Prewett,['Order of the Phoenix'],Gideon Prewett
+485.0,Molly Prewett,"['Gryffindor', 'Order of the Phoenix', 'Related to the Blacks']",Molly Prewett
+486.0,Eileen Prince,[],Eileen
+487.0,Apollyon Pringle,['Hogwarts Staff'],Apollyon
+488.0,Graham Pritchard,['Slytherin'],Graham
+489.0,D. J. Prod,[],D. J. Prod
+490.0,Prongs,[],Prongs
+491.0,Proudfoot,['Ministry of Magic'],Proudfoot
+492.0,Ptolemy,['Chocolate Frog Card'],Ptolemy
+493.0,Adrian Pucey,"['quidditch', 'Slytherin']",Adrian
+494.0,Madam Puddifoot,[],Madam Puddifoot
+495.0,Doris Purkiss,[],Doris Purkiss
+496.0,Augustus Pye,[],Augustus Pye
+497.0,Quigley,['quidditch'],Quigley
+498.0,Orla Quirke,['Ravenclaw'],Orla
+499.0,Quirinus Quirell,"['Death Eater', 'Hogwarts Staff']",Quirinus
+500.0,Quong Po,['Chocolate Frog Card'],Quong
+501.0,Modesty Rabnott,['quidditch'],Modesty
+502.0,Urquhart Rackharrow,[],Urquhart Rackharrow
+503.0,Mnemone Radford,[],Mnemone
+504.0,Radulf,['quidditch'],Radulf
+505.0,Ragnok,[],Ragnok
+506.0,Xavier Rastrick,['Chocolate Frog Card'],Xavier
+507.0,Rowena Ravenclaw,"['Ravenclaw', 'Chocolate Frog Card', 'Hogwarts Staff']",Rowena
+508.0,Tom Marvolo Riddle,"['Death Eater', 'Slytherin']",Tom Marvolo
+509.0,Tom Riddle,[],Tom Riddle
+510.0,Riddle,[],Riddle
+511.0,Harvey Ridgebit,[],Harvey
+512.0,Gawain Robards,[],Gawain
+513.0,Roberts,[],Roberts
+514.0,Demelza Robins,[],Demelza
+515.0,Ronan,[],Ronan
+516.0,Augustus Rookwood,"['Death Eater', 'Ministry of Magic']",Augustus Rookwood
+517.0,Rosier,['Death Eater'],Rosier
+518.0,Druella,[],Druella
+519.0,Evan Rosier,['Death Eater'],Evan
+520.0,Madam Rosmerta,[],Madam Rosmerta
+521.0,Barry Ryan,['quidditch'],Barry
+522.0,Sanguini,['Slug Club'],Sanguini
+523.0,Carmilla Sanguina,['Chocolate Frog Card'],Carmilla
+524.0,Savage,['Ministry of Magic'],Savage
+525.0,Almerick Sawbridge,['Chocolate Frog Card'],Almerick
+526.0,Scabior,[],Scabior
+527.0,Newt Newton Artemis Fido Scamander,"['Chocolate Frog Card', 'Ministry of Magic']",Newt
+528.0,Porpentina Scamander,[],Porpentina
+529.0,Rolf Scamander,[],Rolf
+530.0,Bruno Schmidt,[],Bruno
+531.0,Rufus Scrimgeour,['Ministry of Magic'],Rufus
+532.0,Brutus Scrimgeour,['Quidditch Player'],Brutus
+533.0,Selwyn,[],Selwyn
+534.0,Kingsley Shacklebolt,"['Ministry of Magic', 'Order of the Phoenix']",Kingsley
+535.0,Derwent Shimpling,['Chocolate Frog Card'],Derwent
+536.0,Gaspard,['Chocolate Frog Card'],Gaspard
+537.0,Stan Shunpike,[],Stan
+538.0,Aurora Sinistra,['Hogwarts Staff'],Aurora
+539.0,Rita Skeeter,[],Rita
+540.0,Harold Skively,[],Harold Skively
+541.0,Wilbert Slinkhard,[],Wilbert
+542.0,Jack Slooper,"['gryff', 'Quidditch Player']",Jack
+543.0,Horace Slughorn,"['slyth', 'Hogwarts Staff', 'Slug Club']",Horace
+544.0,Salazar Slytherin,"['slyth', 'Hogwarts Staff']",Salazar
+545.0,Veronica Smethley,[],Veronica
+546.0,Elliot Smethwyk,[],Elliot
+547.0,Hippocrates Smethwyk,['Quidditch Player'],Hippocrates
+548.0,Leopoldina Smethwyk,"['Chocolate Frog Card', 'Quidditch Player']",Leopoldina
+549.0,Hepzibah Smith,[],Hepzibah
+550.0,Zacharias Smith,"['Hufflepuff', 'Dumbledore’s Army', 'Quidditch Player']",Zacharias Smith
+551.0,Severus Snape,"['slyth', 'Hogwarts Staff', 'Death Eater', 'Order of the Phoenix']",Severus
+552.0,Tobias Snape,[],Tobias
+553.0,Snowy,[],Snowy
+554.0,Snuffles,[],Snuffles
+555.0,Alicia Spinett,"['gryff', 'Quidditch Player', 'Dumbledore’s Army']",Alicia
+556.0,Phyllida Spore,[],Phyllida
+557.0,Pomona Sprout,"['Hufflepuff', 'Hogwarts Staff']",Pomona
+558.0,Erica Stainwright,[],Erica
+559.0,Blenheim Stalk,['Chocolate Frog Card'],Blenheim
+560.0,Hesper Starkey,['Chocolate Frog Card'],Hesper
+561.0,Stebbins,['Hufflepuff'],Stebbins
+562.0,Patricia Stimpson,[],Patricia
+563.0,Edgar Stroulger,['Chocolate Frog Card'],Edgar Stroulger
+564.0,Miriam Strout,[],Miriam
+565.0,Grogan Stump,"['Chocolate Frog Card', 'Ministry of Magic']",Grogan
+566.0,Felix Summerbee,['Chocolate Frog Card'],Felix
+567.0,Summberby,"['Hufflepuff', 'Quidditch Player']",Summberby
+568.0,Summers,['Hufflepuff'],Summers
+569.0,Havelock Sweeting,['Chocolate Frog Card'],Havelock
+570.0,Emeric Switch,[],Emeric Switch
+571.0,Jocunda Sykes,"['Quidditch Player', 'Chocolate Frog Card']",Jocunda
+572.0,Tatting,[],Tatting
+573.0,Tenebrus,[],Tenebrus
+574.0,Janus Thickey,[],Janus
+575.0,Pius Thicknesse,[],Pius
+576.0,Dean,"['Quidditch Player', 'gryff', 'Dumbledore’s Army']",Dean
+577.0,Thomas,[],Thomas
+578.0,Orsino Thruston,['Chocolate Frog Card'],Orsino
+579.0,Thaddeus Thurkell,['Chocolate Frog Card'],Thaddeus
+580.0,Tibbles,[],Tibbles
+581.0,Tiberius,['Ministry of Magic'],Tiberius
+582.0,Agatha Timms,[],Agatha Timms
+583.0,Tofty,['Ministry of Magic'],Tofty
+584.0,Tilly Toke,['Chocolate Frog Card'],Tilly
+585.0,Tom,[],Tom
+586.0,Andromeda Tonks,['Related to the Blacks'],Andromeda Tonks
+587.0,Nymphadora Tonks,"['Hufflepuff', 'Order of the Phoenix', 'Related to the Blacks', 'Ministry of Magic']",Nymphadora
+588.0,Ted Tonks,[],Ted
+589.0,Alberta Toothill,[],Alberta
+590.0,Tilden Toots,[],Tilden
+591.0,Kenneth Towler,['gryff'],Kenneth
+592.0,Travers,['Death Eater'],Travers
+593.0,Cassandra Trelawney,[],Cassandra Trelawney
+594.0,Sibyll Trelawney,['Hogwarts Staff'],Sibyll
+595.0,Donaghan Tremlett,['Chocolate Frog Card'],Donaghan
+596.0,Trevor,[],Trevor
+597.0,Quentin Trimble,[],Quentin
+598.0,Troy,['Quidditch Player'],Troy
+599.0,Tufty,[],Tufty
+600.0,Sacharissa Tugwood,['Chocolate Frog Card'],Sacharissa
+601.0,Lisa Turpin,['raven'],Lisa
+602.0,Mallory Twiddle,[],Mallory
+603.0,Twilfitt,[],Twilfitt
+604.0,Norvel Twonk,['Chocolate Frog Card'],Norvel
+605.0,Wilkie Twycross,['Ministry of Magic'],Wilkie
+606.0,Ugga,['Quidditch Player'],Ugga
+607.0,Dolores Jane Umbridge,"['Ministry of Magic', 'Hogwarts Staff']",Dolores
+608.0,Quintius Umfraville,['Quidditch Player'],Quintius
+609.0,Uric the Oddball,['Chocolate Frog Card'],Uric
+610.0,Urquhart,['Quidditch Player'],Urquhart
+611.0,Cassandra Vablatsky,['Chocolate Frog Card'],Cassandra Vablatsky
+612.0,Vaisey,[],Vaisey
+613.0,Emmeline Vance,['Order of the Phoenix'],Emmeline
+614.0,Romilda Vane,['gryff'],Romilda
+615.0,Herbert Varney,['Chocolate Frog Card'],Herbert
+616.0,Septima Vector,['Hogwarts Staff'],Septima
+617.0,Verity,[],Verity
+618.0,Violet,[],Violet
+619.0,Vindictus Viridian,[],Vindictus
+620.0,Lord Voldemort,"['Death Eater', 'slyth']",Voldemort
+621.0,Volkov,['Quidditch Player'],Volkov
+622.0,Vulchanov,['Quidditch Player'],Vulchanov
+623.0,Joscelind Wadcock,"['Chocolate Frog Card', 'Quidditch Player']",Joscelind
+624.0,Adalbert Waffling,['Chocolate Frog Card'],Adalbert
+625.0,Honest Willy,[],Honest
+626.0,Myron Wagtail,['Chocolate Frog Card'],Myron
+627.0,Celestina Warbeck,['Chocolate Frog Card'],Celestina
+628.0,C Warrington,"['Quidditch Player', 'slyth']",C Warrington
+629.0,Fabius Watkins,['Quidditch Player'],Fabius
+630.0,Arthur Weasley,"['Ministry of Magic', 'gryff', 'Related to the Blacks', 'Order of the Phoenix']",Arthur
+631.0,Bill Weasley,"['gryff', 'Related to the Blacks', 'Order of the Phoenix']",Bill Weasley
+632.0,Charlie Weasley,"['Quidditch Player', 'gryff', 'Related to the Blacks', 'Order of the Phoenix']",Charlie
+633.0,Fred Weasley,"['gryff', 'Related to the Blacks', 'Order of the Phoenix', 'Quidditch Player']",Fred
+634.0,Ginny Ginevra Weasley,"['Quidditch Player', 'gryff', 'Slug Club', 'Related to the Blacks', 'Dumbledore’s Army']",Ginny
+635.0,Molly Weasley,"['gryff', 'Related to the Blacks', 'Order of the Phoenix']",Molly Weasley
+636.0,Percy Weasley,"['gryff', 'Related to the Blacks', 'Ministry of Magic']",Percy
+637.0,Ron Ronald Weasley,"['Quidditch Player', 'gryff', 'Related to the Blacks', 'Dumbledore’s Army']",Ron
+638.0,Bilius Weasley,[],Bilius
+639.0,Fleur Delacour Weasley,[],Fleur Delacour Weasley
+640.0,Grandfather Weasley,[],Grandfather Weasley
+641.0,Hermione Granger Weasley,[],Hermione
+642.0,Hugo Weasley,[],Hugo
+643.0,Weasley Mafalda,['slyth'],Weasley Mafalda
+644.0,Rose Weasley,[],Rose Weasley
+645.0,Weasley Second Cousin,[],Weasley Second
+646.0,Septimus Weasley,[],Septimus
+647.0,Victoire Weasley,[],Victoire
+648.0,Weatherby,[],Weatherby
+649.0,Dorcas Wellbeloved,['Chocolate Frog Card'],Dorcas Wellbeloved
+650.0,Wendelin the Weird,['Chocolate Frog Card'],Wendelin
+651.0,Bridget Wenlock,['Chocolate Frog Card'],Bridget
+652.0,Gilbert,['Ministry of Magic'],Gilbert
+653.0,Kennilworthy Whisp,[],Kennilworthy
+654.0,Kevin Whitby,['Hufflepuff'],Kevin Whitby
+655.0,Devlin Whitehorn,"['Quidditch Player', 'Chocolate Frog Card']",Devlin
+656.0,Samson Wiblin,[],Samson
+657.0,Willy Widdershins,[],Willy
+658.0,Dempster Wiggleswade,[],Dempster
+659.0,Wilhelm Wigworthy,[],Wilhelm
+660.0,Ignatia Wildsmith,['Chocolate Frog Card'],Ignatia
+661.0,Wilfred the Wistful,[],Wilfred the Wistful
+662.0,Wilkies,['Death Eater'],Wilkies
+663.0,Will,[],Will
+664.0,Benjy Williams,['Death Eater'],Benjy
+665.0,Williamson,['Ministry of Magic'],Williamson
+666.0,Heliotrope Willis,[],Heliotrope
+667.0,Gilbert Wimple,[],Gilbert Wimple
+668.0,Winky,[],Winky
+669.0,Herman Wintringham,['Chocolate Frog Card'],Herman
+670.0,Lord Stoddard Withers,"['Quidditch Player', 'Chocolate Frog Card']",Lord Stoddard
+671.0,Oliver Wood,"['Quidditch Player', 'gryff']",Oliver
+672.0,Augustus Worme,[],Augustus Worme
+673.0,Wormtail,"['gryff', 'Death Eater']",Wormtail
+674.0,Eldred Worple,[],Eldred
+675.0,Bowman Wright,"['Quidditch Player', 'Chocolate Frog Card']",Bowman
+676.0,Josef Wronski,['Quidditch Player'],Josef
+677.0,Yaxley,['Death Eater'],Yaxley
+678.0,Lysandra,[],Lysandra
+679.0,Cyprian Youdle,"['Quidditch Player', 'Chocolate Frog Card']",Cyprian
+680.0,Yvonne,[],Yvonne
+681.0,Blaise Zabini,"['slyth', 'Slug Club']",Blaise
+682.0,Zabini,[],Zabini
+683.0,Ladislaw Zamojski,['Quidditch Player'],Ladislaw
+684.0,Rose Zeller,['Hufflepuff'],Rose Zeller
+685.0,Zograf,['Quidditch Player'],Zograf
+686.0,Mr and Mrs Granger,,Mr. Granger
+,Mrs Granger,,Mrs. Granger
+78.0,Karl Broadmoor,['Quidditch Player'],Karl Broadmoor
+633.0,George Weasley,"['gryff', 'Related to the Blacks', 'Order of the Phoenix', 'Quidditch Player']",George
+,Sirius,[],Sirius Black
+,Dumbledore,[],Albus Dumbledore
+,Dumbledore,[],Albus
+,McGonagall,[],Minerva McGonagall
+,Petunia,[],Petunia
+,Hagrid,[],Rubeus Hagrid
+,Krum,[],Viktor Krum
+,Krum,[],Viktor
+,Lupin,[],Loopy Lupin Loony
+,Lupin,[],Remus Lupin
+,Lupin,[],Lupin
+,Lupin,[],Loony Lupin
+,Lupin,[],Loony
+,Tonks,[],Dora Nymphadora Tonks
+,Tonks,[],Nymphadora Tonks
+,Tonks,[],Tonks
+,Tonks,[],Dora Nymphadora Tonks Lupin
+,Lupin,[],Remus J. Lupin
+,Moaning Myrtle,[],Moaning Myrtle
+,Mad Moody,[],Mad Moody
+,Mad Moody,[],Alastor Moody
+,Mad Moody,[],Alastor 'Mad-Eye' Moody
+,Mad Moody,[],Alastor 'Mad Eye' Moody
+,Mad Moody,[],Alastor
+,James,[],James
+,Harry,[],Boy Who Lived
+,Harry,[],The chosen one
+,Harry,[],Harry Potter
+,Voldemort,[],Lord Voldemort
+,Voldemort,[],He-Who-Must-Not-Be-Named
+,Voldemort,[],You-Know-Who
+,Voldemort,[],Tom Marvolo Riddle
+,Voldemort,[],Dark Lord
+,Snape,[],Severus Snape
+,Snape,[],Snape
+,Umbridge,[],Dolores Umbridge
+,Umbridge,[],Umbridge
+,Umbridge,[],Dolores Jane Umbridge
+,Ron,[],Ronald Weasley
+,Ron,[],Ron Weasley
+,Ron,[],Ronald
+,Fleur,[],Fleur Delacour-Weasley
+,Fleur,[],Fleur
+,Hermione,[],Hermione Granger
+,Hermione,[],Granger
+,Hermione,[],Hermione Jean Granger
+,Hermione,[],Hermione J. Granger
+,Hermione,[],Hermione Granger-Weasley
+,Hermione,[],Hermione Granger Weasley
+,Wormtail,[],Peter Pettigrew
+,Wormtail,[],Pettigrew
+,Krum,[],Victor Krum
+,Mr. Dursley,[],Mr. Dursley
+,Mrs. Dursley,[],Mrs. Dursley
